@@ -6,6 +6,7 @@ module.exports = {
   ],
   host: 'localhost',
   port: 5000,
+  base: '/datax-document-code/',
   themeConfig: {
     selectText: '选择语言',
     label: '简体中文',
