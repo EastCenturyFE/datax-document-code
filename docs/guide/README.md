@@ -12,7 +12,7 @@
 
 * **图表**
 
-图表组件基于[Charts](http://charts.jiaminghi.com)封装，轻量，易用
+图表组件基于[Charts](https://eastcenturyfe.github.io/charts-document-code)封装，轻量，易用
 
 * **其他**
 

@@ -1,6 +1,6 @@
 {
-  "name": "datav.jiaminghi.com",
-  "version": "2.0.0",
+  "name": "dataX",
+  "version": "1.0.0",
   "description": "DataX Document",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "dataview",
     "charts"
   ],
-  "author": "east-century-fex <fex@hndfsj.com>",
+  "author": "fex <fex@hndfsj.com>",
   "license": "MIT",
   "devDependencies": {
     "@jiaminghi/fs": "^0.0.2",

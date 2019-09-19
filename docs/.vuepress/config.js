@@ -28,11 +28,11 @@ module.exports = {
         items: [
           {
             text: '项目源码仓库',
-            link: 'https://github.com/jiaming743/datav'
+            link: 'https://github.com/east-century-fex/DataX'
           },
           {
             text: '文档及Demo源码仓库',
-            link: 'https://github.com/jiaming743/datav.jiaminghi.com'
+            link: 'https://github.com/EastCenturyFE/datax-document-code'
           }
         ]
       }
